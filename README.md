@@ -36,4 +36,4 @@ const aboutMe = {
 };
 ```
 
-[![r-bytes GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-bytes&show_icons=true&count_private=true&theme=dark)](https://github.com/r-bytes)
+[![r-bytes GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-bytes&show_icons=true&count_private=true&theme=dracula)](https://github.com/r-bytes)
