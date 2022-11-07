@@ -33,8 +33,10 @@ const aboutMe = {
 <img src="http://img.shields.io/badge/-PowerShell-1572B6?style=flat&logo=powershell&logoColor=white"> <img src="http://img.shields.io/badge/-SQL-F89820?style=flat&logo=powershell&logoColor=white"> 
 ---
 
+### Stats
 [![r-bytes GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-bytes&show_icons=true&count_private=true&theme=dracula)](https://github.com/r-bytes)
 
+### Contact
   <a href="https://www.linkedin.com/in/raymond-van-velse-84346187">
     <img align="left" alt="ray" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
