@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hi there, I'm Ray `AKA` <r-bytes /> !
+<h2> I'm r-bytes !
+   
+<br />
 
 ```javascript
 const aboutMe = {
