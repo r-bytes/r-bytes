@@ -35,3 +35,5 @@ const aboutMe = {
    challenge: "Full Stack Developer",
 };
 ```
+
+[![r-bytes GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-bytes&show_icons=true&count_private=true&theme=dark)](https://github.com/r-bytes)
