@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h2> I'm r-bytes !
-   
-<br />
-
 ```javascript
 const aboutMe = {
+   alias: "r-bytes",
    gender: "male",
    code: [JavaScript, Typescript, NextJs, HTML, CSS],
    technologies: {
