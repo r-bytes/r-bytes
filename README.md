@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello friend 👋
 
 <br/>
 
@@ -6,17 +6,17 @@
 const aboutMe = {
    alias: "r-bytes",
    gender: "male",
-   code: [JavaScript, Typescript, NextJs, HTML, CSS],
+   languages: [HTML, CSS, JavaScript, TypeScript, ReactJs, NextJs, PowerShell, SQL, GROQ],
    technologies: {
       frontEnd: {
-         js: ["React", "NextJs", "TypeScript" ],
-         css: ["Styled Components", "TailwindCSS", "Material UI"]
+         js: ["ReactJs", "NextJs", "TypeScript" ],
+         css: ["styled-components", "TailwindCss"],
       },
       backEnd: {
          mern: ["MongoDB", "Express", "NodeJS"],
-         other: ["Sanity", "Firebase", "MySQL", "Bash"]
+         other: ["Sanity", "GraphQL", "Firebase", "SQL", "Bash", "PowerShell"]
       },
-      databases: ["MongoDB", "Firestore", "MySQL", "MSSQL"],
+      databases: ["MongoDB", "Firestore", "MySQL", "MS SQL"],
    },
    currentOccupation: ["Passionate Coder"],
    challenge: "Full Stack Developer",
