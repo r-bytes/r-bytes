@@ -40,7 +40,7 @@ const aboutMe = {
 
 ### Contact
   <a href="https://portfolio.r-bytes.com">
-    <img align="left" alt="dev portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" />
+    <img align="left" alt="dev portfolio" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Developer.gif" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/raymond-van-velse-84346187">
