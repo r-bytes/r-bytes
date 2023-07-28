@@ -6,7 +6,7 @@
 const aboutMe = {
    alias: "r-bytes",
    gender: "male",
-   languages: ["Angular", "CSS", "GROQ", "HTML", "JavaScript", "NextJs", "PowerShell", "ReactJs", "SQL", "TypeScript"],
+   languages: ["Angular", "CSS", "GROQ", "HTML", "JavaScript", "NextJs", "PowerShell", "ReactJs", "Solidity", "SQL", "TypeScript"],
    technologies: {
       frontEnd: {
          js: ["Angular", "NextJs", "ReactJs", "TypeScript"],
