@@ -6,16 +6,16 @@
 const aboutMe = {
    alias: "r-bytes",
    gender: "male",
-   languages: ["Angular", "CSS", "GROQ", "HTML", "JavaScript", "NextJs", "PowerShell", "ReactJs", "Solidity", "SQL", "TypeScript"],
+   languages: ["Dutch", "English", "Bahasa Indonesia"],
    technologies: {
       frontEnd: {
-         js: ["Angular", "NextJs", "ReactJs", "TypeScript"],
+         js: ["Angular", "NextJs", "JavaScript", "ReactJs", "TypeScript"],
          css: ["Styled-Components", "TailwindCss"],
          other: ["Material UI"]
       },
       backEnd: {
          mern: ["MongoDB", "Express", "NodeJS"],
-         other: ["Sanity", "GraphQL", "Firebase", "SQL", "Bash", "PowerShell"]
+         other: ["Sanity", "Solidity", "Firebase", "SQL", "Bash", "PowerShell"]
       },
       databases: ["MongoDB", "Firestore", "MySQL", "MSSQL"],
    },
